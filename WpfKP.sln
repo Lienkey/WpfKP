@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfKP", "WpfKP.csproj", "{EA753740-D54C-41B8-8A55-4ABDD7A3BCCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA753740-D54C-41B8-8A55-4ABDD7A3BCCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA753740-D54C-41B8-8A55-4ABDD7A3BCCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA753740-D54C-41B8-8A55-4ABDD7A3BCCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA753740-D54C-41B8-8A55-4ABDD7A3BCCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4A455FF-F968-4521-B57B-EE374C143D52}
+	EndGlobalSection
+EndGlobal
